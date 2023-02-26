@@ -4,7 +4,7 @@ import preprocessor, helper
 
 import seaborn as sns
 
-st.title("CHAT ANALYSIS")
+st.title(" WHATSAPP CHAT ANALYSIS")
 st.sidebar.title("CHAT SENTIMENT ANALYSIS")
 
 uploded_file = st.sidebar.file_uploader("Choose a file")
