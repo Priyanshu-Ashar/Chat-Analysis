@@ -1,0 +1,6 @@
+numpy
+streamlit
+matplotlib
+seaborn 
+urlextract
+pandas
