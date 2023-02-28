@@ -1,6 +1,7 @@
 numpy
+pandas
 streamlit
 matplotlib
 seaborn 
 urlextract
-pandas
+
